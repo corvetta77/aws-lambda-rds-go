@@ -2,4 +2,4 @@
 
 ## Functionality of lambda
 - peridically read sensor using http
-- save retreived data in RDS
+- save retrieved data in RDS
